@@ -42,3 +42,9 @@ to
 ```
 python -m venv .venv
 ```
+# python is cool
+
+
+
+
+
